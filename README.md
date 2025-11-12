@@ -1,6 +1,6 @@
 # 🌍 Worldwide Phone Number Extractor
 
-![Worldwide Phone Number Extractor](https://raw.githubusercontent.com/alexrony21/Worldwide-Phone-Number-Extractor/refs/heads/main/Worldwide_Phone_Number%20_Extractor.png)
+![Worldwide Phone Number Extractor](https://raw.githubusercontent.com/thepythoncode97/Worldwide-Phone-Number-Extractor/refs/heads/main/Worldwide_Phone_Number%20_Extractor.png)
 
 ## ✅ Features
 
