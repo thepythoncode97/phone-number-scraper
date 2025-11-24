@@ -1,5 +1,7 @@
 # 🌍 Worldwide Phone Number Extractor
 
+## We Automatically Extract and Process Data From Our Database API
+
 ![Worldwide Phone Number Extractor](https://raw.githubusercontent.com/thepythoncode97/Worldwide-Phone-Number-Extractor/refs/heads/main/Worldwide_Phone_Number%20_Extractor.png)
 
 ## ✅ Features
